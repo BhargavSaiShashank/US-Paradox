@@ -1,2 +1,4 @@
 data/movies.db filter=lfs diff=lfs merge=lfs -text
 data/raw/title.basics.tsv filter=lfs diff=lfs merge=lfs -text
+US-Paradox/data/movies.db filter=lfs diff=lfs merge=lfs -text
+US-Paradox/data/raw/title.basics.tsv filter=lfs diff=lfs merge=lfs -text
